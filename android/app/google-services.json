@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222684843068",
+    "project_id": "chatfully-push",
+    "storage_bucket": "chatfully-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222684843068:android:0c7c910e09a154f78ec739",
+        "android_client_info": {
+          "package_name": "io.chatfully.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222684843068-499gcqh1ns2pmtc2h57et15rfohe4vsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0tYJG03lsgv6rjDtUpIg-iQMk-RG-5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222684843068-499gcqh1ns2pmtc2h57et15rfohe4vsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
